@@ -14,6 +14,8 @@ import urllib
 from io import StringIO
 from urllib.request import urlretrieve
 
+#https://br.web.img3.acsta.net/newsv7/22/05/06/20/55/4497665.jpg
+
 def main():
     cont = 0
     # Layout da janela
@@ -130,8 +132,3 @@ def main():
 
 if __name__ == "__main__":
     main()
-
-"""
-
-                
-"""
